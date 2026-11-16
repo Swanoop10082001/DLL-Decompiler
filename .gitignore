@@ -1,0 +1,30 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Downloaded dependencies
+tools/
+
+# Decompiled output
+Decompiled/
+
+# Cache
+.dllsec_cache/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
